@@ -13,5 +13,10 @@ public class GithubApplicationTests {
     public void contextLoads() {
         System.out.println("hello git");
     }
+
+    public static void main(String[] args){
+        Integer coco = 1;
+        System.out.println(coco);
+    }
     
 }
